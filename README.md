@@ -39,4 +39,6 @@
  Toda a parte Front-End (HTML e CSS) foi desenvolvida pela equipe da Alura.
 
 <h2>Executar Preview:</h2>
- <a href='https://jogo-do-numero-secreto-wheat-nu.vercel.app'>![image](https://github.com/user-attachments/assets/bbf3b6bf-2087-4a67-a617-2eac1e10bb56)</a>
+ <a href='https://jogo-do-numero-secreto-wheat-nu.vercel.app' target="_blank">![imagem](https://github.com/user-attachments/assets/f81c4179-3696-42e5-9bda-a2feb73c547d)</a>
+
+
